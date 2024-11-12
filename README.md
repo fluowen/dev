@@ -1,2 +1,2 @@
 # dev
-Development Repository
+Development repository.
